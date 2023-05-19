@@ -1,0 +1,9 @@
+module:evoluce
+cz.cuni.mff.zapoctak.evoluce
+cz.cuni.mff.zapoctak.evoluce.calculators
+cz.cuni.mff.zapoctak.evoluce.data
+cz.cuni.mff.zapoctak.evoluce.entities
+cz.cuni.mff.zapoctak.evoluce.enviroment
+cz.cuni.mff.zapoctak.evoluce.input
+cz.cuni.mff.zapoctak.evoluce.mapentities
+cz.cuni.mff.zapoctak.evoluce.simulation
